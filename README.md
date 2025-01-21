@@ -68,5 +68,8 @@ Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licens
 * Compartilhe este projeto com outros 📢.
 * Deixe um feedback ou agradecimento público 🫂.
 
----
-⌨️ Feito com ❤️ por [Ryan B.](https://github.com/euoryan) 😊
+<br/>
+<div align="center">
+Feito com ☕ e código por Ryan ;) Se gostou, deixa uma estrela pra ajudar! ⭐
+</div>
+
